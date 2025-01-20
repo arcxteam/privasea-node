@@ -1,5 +1,34 @@
-# privasea-node
-a Comprehensive Guide to Privanetix Node (Privasea Node) and WorkHeart USB Node
+# A Comprehensive Guide to Run Privanetix Node (Privasea Node) and WorkHeart USB Node
+
+Whats Privasea? Ink is a Layer 2 blockchain project specifically tailored for DeFi applications built on the Optimism Superchain (OP Stack). Ink by the team behind Kraken, officially known as Payward Inc.
+
+## Here We Go...GAS 
+
+**`Is there incentivized?` ![Confirm](https://img.shields.io/badge/confirm-not_yet-brightgreen)** 
+
+**`but don't worry read important`**
+
+> [!IMPORTANT]
+> currently, there isn't an incentive-basis testnet for Ink, it's worth noting that many Layer 2 projects to release tokenomics and incentives over time. Following these projects can provide insights into potential incentives and benefits down the line, as we’ve seen with other successful L2. **FOR HUGE UPDATES, WILL BE SHARING AT THIS REPO**
+
+---
+
+## 1. Preparation - Run Privasea Node
+**1. Hardware Requirements**
+
+`In order to run Ink node, its need a server like VPS with the minimum recommended specs`
+| Requirement                      | Details                                   |
+|----------------------------------|-------------------------------------------|
+| RAM/Memory                       | 4 - 6 GB                                  |
+| CPU/vCPU                         | 4 - 6 Cores                               |
+| Storage Space                    | 100 GB - More                             |
+| Supported OS                     | Ubuntu 20-22-24 w/ amd64 architecture     |
+| Docker                           | [Manual Install Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) |
+
+> Not yet Docker install? try auto installing...CMD this
+```
+curl sSL https://raw.githubusercontent.com/arcxteam/privasea-node/main/install-latest-docker.sh | bash
+```
 
 ![image-01-20-2025_04_24_PM](https://github.com/user-attachments/assets/25cce29b-8b93-4bc5-a06d-5089b0ca8e8b)
 

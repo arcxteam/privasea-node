@@ -1,6 +1,12 @@
 # privasea-node
 a Comprehensive Guide to Privanetix Node (Privasea Node) and WorkHeart USB Node
 
+![image-01-20-2025_04_24_PM](https://github.com/user-attachments/assets/25cce29b-8b93-4bc5-a06d-5089b0ca8e8b)
+
+![image9997](https://github.com/user-attachments/assets/80f07287-7b89-461b-ac73-6ef5eb60eb45)
+
+![image999](https://github.com/user-attachments/assets/b9af68c1-c7b0-42ba-99ed-c7e155d6764e)
+
 
 
 - Check for file & rename the keystore file in folder to name **wallet_keystore**

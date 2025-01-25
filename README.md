@@ -11,6 +11,8 @@ Whats Privasea? Ink is a Layer 2 blockchain project specifically tailored for De
 > [!IMPORTANT]
 > currently, there isn't an incentive-basis testnet for Ink, it's worth noting that many Layer 2 projects to release tokenomics and incentives over time. Following these projects can provide insights into potential incentives and benefits down the line, as we’ve seen with other successful L2. **FOR HUGE UPDATES, WILL BE SHARING AT THIS REPO**
 
+![DeepSea-01-26-2025_12_31_AM](https://github.com/user-attachments/assets/81a4ff84-a89f-4ef9-99cc-078bfde7bdee)
+
 ---
 
 ## 1. Preparation - Run Privasea Node

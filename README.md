@@ -4,7 +4,7 @@ Whats Privasea? Ink is a Layer 2 blockchain project specifically tailored for De
 
 ## Here We Go...GAS 
 
-**`Is there incentivized?` ![Confirm](https://img.shields.io/badge/confirm-not_yet-brightgreen)** 
+**`Is there incentivized?` ![Confirm](https://img.shields.io/badge/confirm_yes-brightgreen)** 
 
 **`but don't worry read important`**
 

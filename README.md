@@ -1,33 +1,39 @@
-# A Comprehensive Guide to Run Privanetix Node (Privasea Node) and WorkHeart USB Node
+# A Complete Guide Run Privanetix Node (Privasea Node) and WorkHeart USB Node
 
-Whats Privasea? Ink is a Layer 2 blockchain project specifically tailored for DeFi applications built on the Optimism Superchain (OP Stack). Ink by the team behind Kraken, officially known as Payward Inc.
+Whats Privasea? **Privasea** is a DePIN network focused on protecting data privacy and security during AI computations. It uses Fully Homomorphic Encryption (FHE) to perform calculations on encrypted data, yielding the same results as with unencrypted data.
 
 ## Here We Go...GAS 
+**`Is there incentivized testnet?` ![Confirm](https://img.shields.io/badge/confirm-yes-brightgreen)**
 
-**`Is there incentivized?` ![Confirm](https://img.shields.io/badge/confirm-yes-brightgreen)** 
-
-**`but don't worry read important`**
+| Classification                   | Contributor                    | Details                              | Requirements                  |
+|----------------------------------|--------------------------------|--------------------------------------|-------------------------------|
+| 1. Privanatix Node               | Run a software-based node      | Handle computational tasks w/ level      | VPS/Dedicated server ![yes](https://img.shields.io/badge/yes-brightgreen)  |
+| 2. WorkHeart USB Node            | Run a physical USB device      | Individual need USB-device (~~SOLDOUT~~) | VPS/Dedicated server ![yes](https://img.shields.io/badge/yes-brightgreen)  |
+| 3. Privasea App                  | A completed PoH (ImHuman-App)  | Individual Mint a NFT 0.0016ETH + task   | App on iOS or Android ![yes](https://img.shields.io/badge/yes-brightgreen) |
 
 > [!IMPORTANT]
-> currently, there isn't an incentive-basis testnet for Ink, it's worth noting that many Layer 2 projects to release tokenomics and incentives over time. Following these projects can provide insights into potential incentives and benefits down the line, as we’ve seen with other successful L2. **FOR HUGE UPDATES, WILL BE SHARING AT THIS REPO**
+> Incentives and rewards: PRVA tokens are intended to incentivize the network of node contributors and ensure their integrity. "These tokens will serve as incentives for the nodes, encouraging their active participation and contribution to the network." Read [Whitepaper](https://privasea.ai/whitepaper)  <img src="https://github.com/user-attachments/assets/8dd49f17-867a-40f2-a6da-aa9ce564db74" width="400"> **FOR HUGE UPDATES, BE SHARING AT THIS REPO**
 
 ![DeepSea-01-26-2025_12_31_AM](https://github.com/user-attachments/assets/81a4ff84-a89f-4ef9-99cc-078bfde7bdee)
 
 ---
 
-## 1. Preparation - Run Privasea Node
+## 1. Preparation - Run Privanatix Node
 **1. Hardware Requirements**
 
-`In order to run Ink node, its need a server like VPS with the minimum recommended specs`
-| Requirement                      | Details                                   |
-|----------------------------------|-------------------------------------------|
-| RAM/Memory                       | 4 - 6 GB                                  |
-| CPU/vCPU                         | 4 - 6 Cores                               |
-| Storage Space                    | 100 GB - More                             |
-| Supported OS                     | Ubuntu 20-22-24 w/ amd64 architecture     |
-| Docker                           | [Manual Install Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) |
+`In order to run the Privanatix node, it needs a server like (VPS) with the recommended minimum specs`
+| Performance Level       | RAM/Memory     | CPU/vCPU       | Storage     |
+|-------------------------|----------------|----------------|-------------|
+| 1st Coefficient `x2.0`  | 8 GB           | 16 core        | 100 GB-up   | 
+| 2nd Coefficient `x1.5`  | 4 GB           | 8 core         | 100 GB-up   |
+| 3rd Coefficient `x1.2`  | 4 GB           | 4 core         | 100 GB-up   | 
+| 4th Coefficient `x1.0`  | 4 GB           | 2 core         | 100 GB-up   | 
+| Supported OS            | Debian/Ubuntu 20-22-24 x86 arch |
+| Docker                  | [Manual Install Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) |
 
-> Not yet Docker install? try auto installing...CMD this
+> Rewards are calculated using the following formula: **Weight = Tier Coefficient x Uptime Percentage**
+
+Not yet Docker install? try auto installing...CMD this
 ```
 curl sSL https://raw.githubusercontent.com/arcxteam/privasea-node/main/install-latest-docker.sh | bash
 ```

@@ -1,4 +1,4 @@
-# A Complete Guide Run Privanetix Node (Privasea Node) and WorkHeart USB Node
+# A Complete Guide - Run Privanetix Node (Privasea Node) & WorkHeart-USB Node
 
 Whats Privasea? **Privasea** is a DePIN network focused on protecting data privacy and security during AI computations. It uses Fully Homomorphic Encryption (FHE) to perform calculations on encrypted data, yielding the same results as with unencrypted data.
 
@@ -12,7 +12,7 @@ Whats Privasea? **Privasea** is a DePIN network focused on protecting data priva
 | 3. Privasea App                  | A completed PoH (ImHuman-App)  | Individual Mint a NFT 0.0016ETH + task   | App on iOS or Android ![yes](https://img.shields.io/badge/yes-brightgreen) |
 
 > [!IMPORTANT]
-> Incentives and rewards: PRVA tokens are intended to incentivize the network of node contributors and ensure their integrity. "These tokens will serve as incentives for the nodes, encouraging their active participation and contribution to the network." Read [Whitepaper](https://privasea.ai/whitepaper)  <img src="https://github.com/user-attachments/assets/8dd49f17-867a-40f2-a6da-aa9ce564db74" width="400"> **FOR HUGE UPDATES, BE SHARING AT THIS REPO**
+> Incentives and rewards: PRVA tokens are intended to incentivize the network of node contributors and ensure their integrity. "These tokens will serve as incentives for the nodes, encouraging their active participation and contribution to the network." Read [Whitepaper](https://privasea.ai/whitepaper)  <img src="https://github.com/user-attachments/assets/8dd49f17-867a-40f2-a6da-aa9ce564db74" width="400">
 
 ![DeepSea-01-26-2025_12_31_AM](https://github.com/user-attachments/assets/81a4ff84-a89f-4ef9-99cc-078bfde7bdee)
 

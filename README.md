@@ -91,9 +91,9 @@ privasea/acceleration-node-beta:latest ./node-calc new_keystore
   + example like: UTC--2025-01-06T06-11-07.485797065Z--f07c3ef23ae7beb8cd8ba5ff546e35fd4b332b34
   ```
 - Step-3, You need copy file like **UTC--2025-01-06T06..xxxxx** plz remove and replace your UTC--xxxx command this
-     ```bash
-     mv ./UTC--2025-01-06T06..xxxxxxxxxxxxxxxxxxx ./wallet_keystore
-     ```
+  ```bash
+  mv ./UTC--2025-01-06T06..xxxxxxxxxxxxxxxxxxx ./wallet_keystore
+  ```
 
 **5. Go to Dashboard Privanatix Node**
 
@@ -107,9 +107,9 @@ privasea/acceleration-node-beta:latest ./node-calc new_keystore
 
 - Step-1, If you can't see getting an error, back to command `cd`
 - Step-2, and switch to the program running directory
-  ```
-  cd /privasea
-  ```
+```
+cd /privasea
+```
 - Step-3, You need replace `123456` from your Keep **enter anything password for a new key** this generate on point **3 by step-2 before**
 - Step-4, Run the node following this command, plz remove and replace `123456` use your password-key
 ```bash

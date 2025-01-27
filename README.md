@@ -13,6 +13,7 @@ Whats Privasea? **Privasea** is a DePIN network focused on protecting data priva
 
 > [!IMPORTANT]
 > Incentives and rewards: PRVA tokens are intended to incentivize the network of node contributors and ensure their integrity. "These tokens will serve as incentives for the nodes, encouraging their active participation and contribution to the network." Read [Whitepaper](https://privasea.ai/whitepaper)
+
 > <img src="https://github.com/user-attachments/assets/8dd49f17-867a-40f2-a6da-aa9ce564db74" width="400"> 
 
 ![DeepSea-01-26-2025_12_31_AM](https://github.com/user-attachments/assets/81a4ff84-a89f-4ef9-99cc-078bfde7bdee)

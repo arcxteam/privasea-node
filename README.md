@@ -53,19 +53,19 @@ sudo iptables -A INPUT -p tcp --dport 8181 -j ACCEPT
 
 ## 2. Installation & Run Privanatix Node
 
-**1. Pull the docker image using the following command**
+**Point-1. Pull the docker image using the following command**
 
 > Will taking pulling download total 9GB file, stay cool
 
 ```
 docker pull privasea/acceleration-node-beta:latest
 ```
-**2. Create the program running directory and navigate to it**
+**Point-2. Create the program running directory and navigate to it**
 
 ```
 mkdir -p  /privasea/config && cd  /privasea
 ```
-**3. Get the keystore file**
+**Point-3. Get the keystore file**
 
 - Use an existing wallet `keystore file` or execute the following command to **generate a new account/wallet**
 - Step-1, Im choose **generate a new account/wallet**, follow this command
@@ -74,14 +74,14 @@ mkdir -p  /privasea/config && cd  /privasea
 docker run -it -v "/privasea/config:/app/config"  \
 privasea/acceleration-node-beta:latest ./node-calc new_keystore
 ```
-- Step-2, Keep **enter anything password for a new key** and submit enter again your password this x2, this will be **generate a new account success!!**
-- Step-3, looks like **node address** `0x123456789xxxxxx` SAVE.....THIS A YOUR WALLET ADDRESS
-- Step-4, looks like **node filename** `UTC--2025-01-06T06..xxxxx` SAVE.....THIS WILL BE RENAME KEYSTORE-FILE
+- Step-2, Keep **enter anything password for a new key** and submit enter again your password this x2, it'll **generate a new account success!!**
+- Step-3, looks like **node address** `0x123456789xxxxxx` SAVE..IT..THIS A YOUR WALLET ADDRESS
+- Step-4, looks like **node filename** `UTC--2025-01-06T06..xxxxx` SAVE.....IT
 - Step-5, go back to root and command `cd`
 
 ![image-01-20-2025_04_24_PM](https://github.com/user-attachments/assets/25cce29b-8b93-4bc5-a06d-5089b0ca8e8b)
 
-**4. Rename a keystore file**
+**Point-4. Rename a keystore file**
 
 - Step-1, the first command this directory
   ```bash
@@ -96,22 +96,22 @@ privasea/acceleration-node-beta:latest ./node-calc new_keystore
   mv ./UTC--2025-01-06T06..xxxxxxxxxxxxxxxxxxx ./wallet_keystore
   ```
 
-**5. Go to Dashboard Privanatix Node**
+**Point-5. Go to Dashboard Privanatix Node**
 
 - Step-1, Connect wallet anything your hand on Metamask chosee ARB Sepolia, here [DASHBOARD](https://deepsea-beta.privasea.ai/privanetixNode)
-- Step-2, Submit and use the wallet address corresponding to the generate a new account like **node address** on point **3 by step-3 before**
+- Step-2, Submit and use the wallet address corresponding to the generate a new account like **node address** on previous **point 3 by step-3**
 - Step-3, Look picture below and **set up my node**
 
 ![image9997](https://github.com/user-attachments/assets/80f07287-7b89-461b-ac73-6ef5eb60eb45)
 
-**6. Start the Node**
+**Point-6. Start the Node**
 
 - Step-1, If you can't see getting an error, back to command `cd`
 - Step-2, and switch to the program running directory
 ```
 cd /privasea
 ```
-- Step-3, You need replace `123456` from your Keep **enter anything password for a new key** this generate on point **3 by step-2 before**
+- Step-3, You need replace `123456` from your Keep **enter anything password for a new key** this generate on previous **point 3 by step-2**
 - Step-4, Run the node following this command, plz remove and replace `123456` use your password-key
 ```bash
 docker run  -d   -v "/privasea/config:/app/config" \

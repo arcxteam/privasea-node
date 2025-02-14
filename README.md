@@ -16,7 +16,7 @@ Whats Privasea? **Privasea** is a DePIN network focused on protecting data priva
 
 > <img src="https://github.com/user-attachments/assets/8dd49f17-867a-40f2-a6da-aa9ce564db74" width="400"> 
 
-![DeepSea-01-26-2025_12_31_AM](https://github.com/user-attachments/assets/81a4ff84-a89f-4ef9-99cc-078bfde7bdee)
+![image](https://github.com/user-attachments/assets/681ec593-6844-4f67-bca4-6e809d796ddb)
 
 ---
 
